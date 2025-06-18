@@ -1,2 +1,2 @@
-# paython
+# python
 just for learning
